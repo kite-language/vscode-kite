@@ -2,7 +2,7 @@
   "name": "kite-lang",
   "displayName": "Kite",
   "description": "Syntax highlighting, snippets and language configuration for the Kite programming language (.ki)",
-  "version": "0.3.0",
+  "version": "1.0.0",
   "publisher": "yo-le-zz",
   "license": "MIT",
   "icon": "images/icon.png",
