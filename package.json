@@ -3,16 +3,16 @@
   "displayName": "Kite",
   "description": "Syntax highlighting, snippets and language configuration for the Kite programming language (.ki)",
   "version": "1.0.0",
-  "publisher": "yo-le-zz",
+  "publisher": "kite-language",
   "license": "MIT",
   "icon": "images/icon.png",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yo-le-zz/vscode-kite"
+    "url": "https://github.com/kite-language/vscode-kite"
   },
-  "homepage": "https://github.com/yo-le-zz/Kite",
+  "homepage": "https://github.com/kite-language/kite",
   "bugs": {
-    "url": "https://github.com/yo-le-zz/Kite/issues"
+    "url": "https://github.com/kite-language/vscode-kite/issues"
   },
   "engines": {
     "vscode": "^1.75.0"
