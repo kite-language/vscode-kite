@@ -1,6 +1,6 @@
 {
-  "name": "kite-lang",
-  "displayName": "Kite",
+  "name": "kite-language-vscode",
+  "displayName": "Kite-lang",
   "description": "Syntax highlighting, snippets and language configuration for the Kite programming language (.ki)",
   "version": "1.0.0",
   "publisher": "kite-language",
